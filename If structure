@@ -1,0 +1,9 @@
+#if structure
+a=int(raw_input('enter a value'))
+if a<20:
+      print('a is <20')
+      print('hi')
+Output:
+enter a value 10
+a is <20
+hi
