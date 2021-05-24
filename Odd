@@ -1,0 +1,16 @@
+#checking odd number or not
+a=int(raw_input())
+b=int(raw_input())
+if a%2==1:
+    print("a is ODD")
+else:
+    print("a is EVEN")
+if b%2==1:
+    print("b is ODD")
+else:
+    print("b is EVEN")
+OUTPUT:
+12
+13
+a is EVEN
+b is ODD
