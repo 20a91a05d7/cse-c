@@ -1,0 +1,16 @@
+#while
+i=int(raw_input('enter start value'))
+n=int(raw_input('enter end value'))
+a=int(raw_input('enter step value')) 
+while i<=n: 
+    print(i)
+    i+=a
+Output:
+enter start value 2
+enter end value 10
+enter step value 2
+2
+4
+6
+8
+10
